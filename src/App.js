@@ -1,12 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Student from './Student';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+   
       <h1>hello world</h1>
-      </header>
+    
+    
+      <Student/>
     </div>
   );
 }
